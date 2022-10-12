@@ -29,7 +29,7 @@ namespace PersonTests
             }
         }
 
-        /*private static int TestReset()
+        private static int TestReset()
         {
             Person person = new ("Test");
             person.Reset();
@@ -44,7 +44,7 @@ namespace PersonTests
             }
         }
 
-        private static int TestCompare()
+        /*private static int TestCompare()
         {
             Person firstPerson = new ("Alice");
             Person secondPerson = new ("Bob");
